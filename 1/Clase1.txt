@@ -1,0 +1,1 @@
+Hardware descrition language: VERILOG -> APIO  (gtkwave) <-VSCODE
